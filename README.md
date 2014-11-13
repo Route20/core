@@ -1,4 +1,3 @@
 core
 ====
-
-Core
+Rewrite of jeromq high performance network library.
